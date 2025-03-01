@@ -9,58 +9,58 @@ In a world ravaged by war, a nameless orphan is taken in by the legendary Comman
 
 ```
 ┌──👑 Monarch (King / Queen)
-│   ├── Supreme Commander (The Commander)  
-│   │   ├── Grade S+ (Commander – Strongest warrior, answers only to Monarch)
-│   │   └── Grade S (Acting Commander – If the main Commander is absent or dead)
+│   ├── Supreme Commander (The Commander)
+│   │   ├── Commander (Strongest warrior, answers only to Monarch)
+│   │   └── Acting Commander (If the main Commander is absent or dead)
 │   │
 │   ├── Knights (Leaders of Elite Forces)
-│   │   ├── Grade S (Royal Knight – Commands the king’s elite guard)
-│   │   └── Grade A+ (Knight – Leads specialized warrior units)
+│   │   ├── Royal Knight (Commands the king’s elite guard)
+│   │   └── Knight (Leads specialized warrior units)
 │   │
 │   ├── Captains (Field Commanders)
-│   │   ├── Grade A (High Captain – Veteran leader with relic weapons)
-│   │   ├── Grade B+ (Elite Captain – Commands heavy infantry / cavalry)
-│   │   └── Grade B (Standard Captain – Experienced warrior with proven battle tactics)
+│   │   ├── High Captain (Veteran leader with relic weapons)
+│   │   ├── Elite Captain (Commands heavy infantry / cavalry)
+│   │   └── Standard Captain (Experienced warrior with proven battle tactics)
 │   │
 │   ├── Lieutenants (Second-in-Command)
-│   │   ├── Grade B (Senior Lieutenant – Close to becoming a Captain)
-│   │   ├── Grade C+ (Skilled Lieutenant – Leads small squads, trains soldiers)
-│   │   └── Grade C (Junior Lieutenant – Learning battlefield tactics)
+│   │   ├── Senior Lieutenant (Close to becoming a Captain)
+│   │   ├── Skilled Lieutenant (Leads small squads, trains soldiers)
+│   │   └── Junior Lieutenant (Learning battlefield tactics)
 │   │
 │   ├── Elite Soldiers
-│   │   ├── Grade C+ (Elite Vanguard – Wields ancient techniques or special weapons)
-│   │   ├── Grade C (Vanguard – Trained for high-risk combat)
-│   │   └── Grade D+ (Veteran Soldier – Survivors of many battles, respected but not officers)
+│   │   ├── Elite Vanguard (Wields ancient techniques or special weapons)
+│   │   ├── Vanguard (Trained for high-risk combat)
+│   │   └── Veteran Soldier (Survivors of many battles, respected but not officers)
 │   │
 │   └── Regular Soldiers (The Backbone of the Army)
-│       ├── Grade D (Standard Soldier – Basic training, assigned to front lines)
-│       ├── Grade E+ (Scout / Messenger – Special tasks, information gathering)
-│       └── Grade E (New Recruit – No battle experience, just starting training)
+│       ├── Standard Soldier (Basic training, assigned to front lines)
+│       ├── Scout / Messenger (Special tasks, information gathering)
+│       └── New Recruit (No battle experience, just starting training)
 │
 ├── Grandmaster (Legendary Warrior) [Independent]
-│   ├── Grade SS (Unmatched warriors, only a handful exist in history)
-│   └── Grade S+ (Retired legends who return in times of great war)
+│   ├── Unmatched Warrior (Only a handful exist in history)
+│   └── Retired Legend (Returns in times of great war)
 │
 └──⚔️ Independent & Mercenary Groups (Outside the Military)
 	├── Shadow Blades (Assassins)
-	│   ├── Grade S (Master Assassin – Almost mythical in skill)
-	│   ├── Grade A+ (Elite Assassin – Few can match their stealth)
-	│   └── Grade B (Regular Assassin – Deadly but not yet legendary)
+	│   ├── Master Assassin (Almost mythical in skill)
+	│   ├── Elite Assassin (Few can match their stealth)
+	│   └── Regular Assassin (Deadly but not yet legendary)
 	│
 	├── Fallen Knights (Exiled Warriors)
-	│   ├── Grade S (Disgraced Grandmaster – As strong as a Grandmaster)
-	│   ├── Grade A (Former Knight – Once held power but now rogue)
-	│   └── Grade B+ (Exiled Captain – Survives through mercenary work)
+	│   ├── Disgraced Grandmaster (As strong as a Grandmaster)
+	│   ├── Former Knight (Once held power but now rogue)
+	│   └── Exiled Captain (Survives through mercenary work)
 	│
 	├── Relic Hunters (Seekers of Ancient Power)
-	│   ├── Grade S+ (Cursed Relic Bearer – Wields forbidden artifacts)
-	│   ├── Grade A (Relic Knight – Uses rare weapons from ancient times)
-	│   └── Grade B (Artifact Seeker – Finds relics but lacks great power)
+	│   ├── Cursed Relic Bearer (Wields forbidden artifacts)
+	│   ├── Relic Knight (Uses rare weapons from ancient times)
+	│   └── Artifact Seeker (Finds relics but lacks great power)
 	│
 	└── Warlords (Independent Army Leaders)
-		├── Grade S (Conqueror – Controls entire regions, challenges kingdoms)
-		├── Grade A+ (Rebel Warlord – Former Knight who turned against the kingdom)
-		└── Grade A (Small Warlord – Leads a small force, seeking power)
+		├── Conqueror (Controls entire regions, challenges kingdoms)
+		├── Rebel Warlord (Former Knight who turned against the kingdom)
+		└── Small Warlord (Leads a small force, seeking power)
 ```
 
 ---
