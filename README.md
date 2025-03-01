@@ -5,7 +5,7 @@ In a world ravaged by war, a nameless orphan is taken in by a legendary Commande
 
 ---
 
-## Kingdom Hierarchy
+## Kingdom's Military Hierarchy
 
 ```
 ┌──👑 Monarch (King / Queen)
