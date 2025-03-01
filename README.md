@@ -1,4 +1,4 @@
-# The Shadow That Stood Behind Me, The Storm That Stands Against Me
+# The Shadow That Stood Behind Me is The Storm That Stands Against Me
 
 ## Plot
 In a world ravaged by war, a nameless orphan is taken in by a legendary Commander, hoping to prove his worth. Though met with resentment, he endures countless trials to become part of her family. Just as he begins to find his place, a devastating tragedy tears everything apart, leaving him to walk a path he never imagined. As destiny looms over him, he must uncover the truth behind his power and the unseen forces shaping his fate.
